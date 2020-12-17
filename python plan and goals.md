@@ -5,7 +5,7 @@ Even this is a leasson.
 Read me file apparently best practice
 
 So this repo will have many small bits of code where i take learning modules from youtube and my book and build them practically.
-just an example to use git really.
+just an excuse to use git really.
 
 Book: Automate the boring stuff with Python.
 
