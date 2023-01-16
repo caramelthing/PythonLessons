@@ -1,0 +1,16 @@
+https://www.youtube.com/watch?v=hpc5jyVpUpw
+Working with APIs in Python - Code in 10 Minutes
+
+https://www.youtube.com/watch?v=p71SWzjeqtk
+Python for API - Learn how to access any API with Python
+
+https://www.youtube.com/watch?v=qbLc5a9jdXo
+REST API Crash Course - Introduction + Full Python API Tutorial
+
+****
+
+https://randomfox.ca/
+https://randomfox.ca/floof
+
+API with python:
+import requests
